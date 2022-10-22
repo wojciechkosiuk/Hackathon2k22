@@ -9,7 +9,9 @@ def check_kiid(file_name):
 
     pdf = pdfplumber.open(file_name)
     text = pdf.pages[0].extract_text().lower()[1:200]
+    pdf.close()
     return "kluczowe informacje dla inwestorów" in text
+
 
 
 if __name__ == "__main__":
@@ -34,21 +36,28 @@ if __name__ == "__main__":
         kiids = []
         i = 1
         for plik in listaPlikow:
-            print (str(i)+"/"+str(len(listaPlikow)),":", plik, end = " ")
+            indexDir = "{0:<10} {1:<10}".format(str(i)+"/"+ str(len(listaPlikow))+": ", plik)
+
             try:
                 if (check_kiid(plik)):
 
                     nazwa_pliku=plik.split("/")[len(plik.split("/"))-1]
                     os.rename(plik, "KIID/" + nazwa_pliku)
 
+                    lenght = 125
                     kiids.append(plik)
-                    print("to KIID", end="")
+                    print("{:7s} {:125s} {:10s}".format(str(i)+"/"+ str(len(listaPlikow))+": ", plik, "!!!!!!to KIID!!!!!!"), end=" ")
                 else:
-                    print("to nie KIID - usuwam", end = "")
+                    print("{:7s} {:125s} {:10s}".format(str(i)+"/"+ str(len(listaPlikow))+": ", plik, "to nie KIID - usuwam"), end = " ")
                     os.remove(plik)
             except:
-                os.remove(plik)
-                print("blad - usuwam")
+                try:
+                    os.remove(plik)
+                    print("{:7s} {:125s} {:10s}".format(str(i) + "/" + str(len(listaPlikow)) + ": ", plik, "blad - usuwam"), end=" ")
+                except:
+                    print("{:7s} {:125s} {:10s}".format(str(i) + "/" + str(len(listaPlikow)) + ": ", plik, "blad przy usuwaniu"), end=" ")
+
+
             i+=1
             print("")
 
