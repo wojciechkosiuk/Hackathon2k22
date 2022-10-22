@@ -14,7 +14,7 @@ def check_kiid(file_name):
 
 if __name__ == "__main__":
     listaFolderow = []
-    dir_path= '/Users/adammajczyk/PycharmProjects/websraping/download/'
+    dir_path= 'download/'
     for path in os.listdir(dir_path):
         # check if current path is a file
         if not os.path.isfile(os.path.join(dir_path, path)):
@@ -39,7 +39,7 @@ if __name__ == "__main__":
                 if (check_kiid(plik)):
 
                     nazwa_pliku=plik.split("/")[len(plik.split("/"))-1]
-                    os.rename(plik, dir_path+"/KIID/" + nazwa_pliku)
+                    os.rename(plik, "KIID/" + nazwa_pliku)
 
                     kiids.append(plik)
                     print("to KIID", end="")

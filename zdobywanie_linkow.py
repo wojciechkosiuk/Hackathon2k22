@@ -6,37 +6,37 @@ import json
 import time
 
 urls = [
-'www.aliortfi.com',
-'www.amundi.pl',
-'www.baltictfi.pl',
-'www.tfi.bnpparibas.pl',
-'www.bpstfi.pl',
-'www.caspartfi.pl',
-'www.eitfi.pl',
-'www.esaliens.pl',
-'www.generali-investments.pl',
-'www.investors.pl',
-'www.ipopema.pl',
-'www.millenniumtfi.pl',
-'www.metlife.pl',
-'www.nntfi.pl',
-'www.noblefunds.pl',
-'www.opera-tfi.pl',
-'www.pekaotfi.pl',
-'www.pfrtfi.pl',
-'www.pkotfi.pl',
-'www.qtfi.pl',
-'www.rockbridge.pl',
-'www.santandertfi.pl',
-'www.skarbiec.pl',
-'www.superfund.pl',
-'www.franklintempleton.pl',
-'www.tfiagro.pl',
-'www.allianz.pl',
-'www.tfienergia.pl',
-'www.pzu.pl',
-'www.uniqa.pl',
-'www.vigcq-tfi.pl'
+'http://www.aliortfi.com/',
+'http://www.amundi.pl/',
+'http://www.baltictfi.pl/',
+'http://www.tfi.bnpparibas.pl/',
+'http://www.bpstfi.pl/',
+'http://www.caspartfi.pl/',
+'http://www.eitfi.pl/',
+'http://www.esaliens.pl/',
+'http://www.generali-investments.pl/',
+'http://www.investors.pl/',
+'http://www.ipopema.pl/',
+'http://www.millenniumtfi.pl/',
+'http://www.metlife.pl/',
+'http://www.nntfi.pl/',
+'http://www.noblefunds.pl/',
+'http://www.opera-tfi.pl/',
+'http://www.pekaotfi.pl/',
+'http://www.pfrtfi.pl/',
+'http://www.pkotfi.pl/',
+'http://www.qtfi.pl/',
+'http://www.rockbridge.pl/',
+'http://www.santandertfi.pl/',
+'http://www.skarbiec.pl/',
+'http://www.superfund.pl/',
+'http://www.franklintempleton.pl/',
+'http://www.tfiagro.pl/',
+'http://www.allianz.pl/',
+'http://www.tfienergia.pl/',
+'http://www.pzu.pl/',
+'http://www.uniqa.pl/',
+'http://www.vigcq-tfi.pl/'
 ]
 
 url = ""
@@ -94,7 +94,11 @@ def get_subpage_links(l):
 gigalista = {}
 for url in urls:
     # If there is no such folder, the script will create one automatically
-    folder_location = r"/Users/adammajczyk/PycharmProjects/websraping/download/" + url[7:17:1]
+
+    if not os.path.exists("download"):
+        os.mkdir("download")
+
+    folder_location = r"download/" + url[7:17:1]
     if not os.path.exists(folder_location): os.mkdir(folder_location)
 
     dict_href_links = get_links(url)

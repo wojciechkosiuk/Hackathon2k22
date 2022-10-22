@@ -28,7 +28,7 @@ def f(list, czas):
 
         print("total czas: ", round(time.perf_counter()-total, 2), "czas: ", round(time.perf_counter() - start, 2), " index: " ,str(idx) + "/" + str(len(links)), ": ", link)
         response = requests.get(link)
-        folder_location = r"/Users/adammajczyk/PycharmProjects/websraping/download/" + link[7:17:1]
+        folder_location = r"download/" + link[7:17:1]
 
         if not os.path.exists("download"):
             os.mkdir("download")
@@ -76,4 +76,7 @@ with open('data.json', 'r') as fcc_file:
     lista = list(zbior)
     lista = [i for i in lista if patNotAllianz.match(i)]
 
-    f(lista, 120)
+    try:
+        f(lista, 120)
+    except:
+        print("cos poszlo nie tak")
