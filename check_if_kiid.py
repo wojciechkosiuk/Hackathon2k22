@@ -7,8 +7,8 @@ def check_kiid(file_name):
     reader = pdf.PdfFileReader(file)
     pageObj = reader.getPage(0)
     text = pageObj.extract_text()
-    text_ = text.lower()
-    return text_.startswith("kluczowe informacje dla inwestorów")   
+    text_ = text.lower()[1:200]
+    return "kluczowe informacje dla inwestorów" in text_   
 
 if __name__ == "__main__":
     #test
