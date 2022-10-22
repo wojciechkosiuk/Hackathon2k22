@@ -1,22 +1,18 @@
-import PyPDF2 as pdf
+import pdfplumber
 
 def extract(file_name):
     # podajesz nazwe pliku i otrzymujesz string z calej zawartosci i NAZWE_SUBFUNDUSZU znaleziona w pliku
-    # jest troche problem, ze wystepuja spacje dzielace niektore slowa (?)
-    file = open(file_name,'rb')
-    reader = pdf.PdfFileReader(file)
+
+    pdf = pdfplumber.open(file_name)
     
     
     
     full_text = ""
-    for page_nr in range(reader.numPages):
-        page = reader.getPage(page_nr)
+    for page in pdf.pages:
         full_text += page.extract_text()
+        full_text += "\n"
 
-    NAZWA_SUBFUNDUSZU = text.split("inwestycyjną.\n")[1].split("\n")[0]
-    
-    full_text = full_text.replace('\n', ' ')
-    return full_text, NAZWA_SUBFUNDUSZU
+    return full_text
 
 
 
