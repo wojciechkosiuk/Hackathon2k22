@@ -14,7 +14,7 @@ def check_kiid(file_name):
 
 
 
-if __name__ == "__main__":
+def get_kiids():
     listaFolderow = []
     dir_path= 'download/'
     for path in os.listdir(dir_path):
@@ -65,3 +65,4 @@ if __name__ == "__main__":
         print(len(kiids))
     else:
         print("jest tyle samo plikow")
+    return kiids
