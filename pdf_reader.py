@@ -4,6 +4,9 @@ import pandas as pd
 import numpy as np
 from stempel import StempelStemmer
 
+global stemmer
+stemmer = StempelStemmer.polimorf()
+global currencies #bedzie przy _57
 
 
 def extract(file_name):
@@ -31,19 +34,22 @@ def _3(full_text):
 
 
 def _8(full_text):
-    text_stemmed = full_text.lower().split("cele i polityka inwestycyjna")[0].split()
-    tmp = [stemmer.stem(x)=="zarządzać" for x in full_text.lower().split("cele i polityka inwestycyjna")[0].split()]
+    try: #wywalilo mi list index out of range :(
+        text_stemmed = full_text.lower().split("cele i polityka inwestycyjna")[0].split()
+        tmp = [stemmer.stem(x)=="zarządzać" for x in full_text.lower().split("cele i polityka inwestycyjna")[0].split()]
 
-    df = pd.DataFrame({'text':text_stemmed, 'boolvec':tmp})
-    word = df[df['boolvec']==True]['text']
+        df = pd.DataFrame({'text':text_stemmed, 'boolvec':tmp})
+        word = df[df['boolvec']==True]['text']
 
-    if word.empty:
-        return None
-    else:
-        stemmed = full_text.split(np.array(word)[0])[1].split("\n")[0].split('S.A.')[0] + "S.A."
-        upper_words = [x[0].isupper() for x in stemmed.split()]
-        words = np.array(stemmed.split())[upper_words]
+        if word.empty:
+            return None
+        else:
+            stemmed = full_text.split(np.array(word)[0])[1].split("\n")[0].split('S.A.')[0] + "S.A."
+            upper_words = [x[0].isupper() for x in stemmed.split()]
+            words = np.array(stemmed.split())[upper_words]
         return " ".join(words)
+    except:
+        return None
 
 
 def _9(full_text):
@@ -116,7 +122,7 @@ def _52(full_text):
 
 def _53(full_text):
     try:
-        krs = re.findall(r'[0-9]{10}',full_text.lower().split("informacje praktyczne")[1])
+        krs = re.findall(r'[0-9]{10}',full_text.lower().split("informacje praktyczne")[1])[0]
     except:
         return None
     return krs
@@ -124,21 +130,17 @@ def _53(full_text):
 
 def _54(full_text):
     try:
-        nip = re.findall(r'[0-9]{3}-[0-9]{2}-[0-9]{2}-[0-9]{3}',full_text.lower().split("informacje praktyczne")[1])
+        nip = re.findall(r'[0-9]{3}-[0-9]{2}-[0-9]{2}-[0-9]{3}',full_text.lower().split("informacje praktyczne")[1])[0]
     except:
         return None
     return nip
 
 
 
-def _55(full_text,stemmer):
+def _55(full_text):
     # returnuje adres jaki tam znajdzie w pliku
-    inf_prak = full_text.lower().split("informacje praktyczne")[1]
-    
-    #wywalić go potem z funkcji bo nie ma sensu go ladowac za kazdym razem
-
-    # stemmer = StempelStemmer.polimorf()
     try:
+        inf_prak = full_text.lower().split("informacje praktyczne")[1]
         adres = re.findall(r'ul\. \w+ \d+,{0,1} \d+-\d+ \w+',inf_prak)
         adres_split = adres[0].split()
         adres_split[1] = stemmer.stem(adres_split[1])
@@ -161,7 +163,11 @@ def get_list_of_currencies():
     currencies.drop_duplicates(subset = "abbr", inplace = True)
     return currencies
 
-def _57(full_text,currencies):
+
+
+currencies = get_list_of_currencies()
+
+def _57(full_text):
     # returnuje walute kapitału (ostatni akapit)
     try:
         # currencies = get_list_of_currencies()
@@ -190,8 +196,7 @@ def _59(full_text):
 
 
 def main():
-    stemmer = StempelStemmer.polimorf()
-    currencies = get_list_of_currencies()
+    pass
     
 
 if __name__ == "__main__":
