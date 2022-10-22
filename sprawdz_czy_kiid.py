@@ -66,3 +66,24 @@ def get_kiids():
     else:
         print("jest tyle samo plikow")
     return kiids
+
+
+
+def get_list_of_kids():
+    # używać funkcji po wcześniejszym użyciu get_kiids()
+    # pliki powinny być już sprawdzone i w folderze KIID
+
+    listaPlikow=[]
+    folder = 'KIID'
+    for path in os.listdir(folder):
+        # check if current path is a file
+        if  os.path.isfile(os.path.join(folder, path)):
+            listaPlikow.append(folder + "/" + path)
+
+
+    if (len(listaPlikow)>0):
+        kiids = []
+        i = 1
+        for plik in listaPlikow:
+            kiids.append(plik)
+    return kiids
