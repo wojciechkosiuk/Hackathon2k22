@@ -1,6 +1,6 @@
 import PyPDF2 as pdf
 
-def extract_text(file_name):
+def extract(file_name):
     # podajesz nazwe pliku i otrzymujesz string z calej zawartosci
     # jest troche problem, ze wystepuja spacje dzielace niektore slowa (?)
     file = open(file_name,'rb')
@@ -19,7 +19,7 @@ def extract_text(file_name):
 def main():
     # test
     file_name = "KIID_BNP_Paribas_DI_2022-09-21.pdf"
-    print(extract_text(file_name))
+    print(extract(file_name))
     
 
 if __name__ == "__main__":
