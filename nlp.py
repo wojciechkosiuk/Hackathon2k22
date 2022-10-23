@@ -3,6 +3,8 @@ import string
 import pandas as pd
 from pdf_reader import extract
 from sklearn.feature_extraction.text import TfidfVectorizer
+
+
 def clean_text_round1(text):
     '''Make text lowercase, remove punctuation and remove words containing numbers and stopwords.'''
     text = text.lower()
@@ -17,9 +19,23 @@ def clean_text_round1(text):
             text = re.sub(stopword, '', text)
     return text
 
+
+def clean_text_round2(text):
+    # Usunięcie stop wyrazów
+    with open('stopwords.txt') as f:
+
+        stopwords = []
+        for line in f:
+            line = line.strip()
+            stopwords.append(line)
+
+        for stopword in stopwords:
+            text = re.sub(r"\b%s\b" % stopword, '', text)
+    return text
+
 def transform_row(filename):
     text = extract(filename)
-    text = clean_text_round1(text)
+    text = clean_text_round2(text)
     return text
 
 
@@ -54,9 +70,11 @@ def cluster_text(text):
         print(clusters[clusters['cluster'] == i])
 
     return
+
+
 if __name__ == "__main__":
-    df = pd.read_csv('misie_KIID_META.csv')
-    df['clean_text'] = df.apply(lambda row: transform_row(row['NAZWA_PLIKU']), axis=1)
+    df = pd.read_csv('texty.csv')
+    # df['clean_text'] = df.apply(lambda row: transform_row(row['NAZWA_PLIKU']), axis=1)
+    cluster_text(df['TEKST'])
 
     round1 = lambda x: clean_text_round1(x)
-
