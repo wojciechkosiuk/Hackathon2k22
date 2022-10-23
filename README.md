@@ -2,7 +2,7 @@
 
 w folderze csv sa wszystkie wymagane csvki
 
-Do webscrapingu używaliśmy plikóœ:
+Do webscrapingu używaliśmy plików:
 
 * zdobywanie_linkow.py
 * pobieranie_pdfow.py
@@ -18,7 +18,7 @@ Do tabeli DANE:
 * pdf_reader.py
 * make_dane_csv.py
 
-probowaliśmy też przeprowadzić analizę nlp do kolumny 58 w pliku nlp.py, ale wybraliśmy prostsze rozwiązanie
+Probowaliśmy też przeprowadzić analizę nlp do kolumny 58 w pliku nlp.py, ale wybraliśmy prostsze rozwiązanie
 
 Do utworzenia META:
 
