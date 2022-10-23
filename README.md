@@ -1,5 +1,4 @@
 # Hackathon2k22
 
-**TODO**
-1.  plik requirements
+w folderze csv sa wszystkie wymagane csvki
 
