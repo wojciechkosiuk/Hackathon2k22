@@ -1,500 +1,500 @@
 ID_KIID,ID_ZESPOLU,NAZWA_SUBFUNDUSZU,NAZWA_FUNDUSZU,ISIN,IDENTYFIKATOR_KRAJOWY,NUMER_RFI,PODMIOT_ZARZADZAJACY,DATA_AKTUALIZACJI_KIID,KATEGORIE_JEDNOSTEK_UCZESTNICTWA,CEL_INWESTYCYJNY,POLITKA_INWESTYCYJNA,MINIMALNY_POZIOM_INWESTYCJI,MAKSYMALNY_POZIOM_INWESTYCJI_UDZIALOWE,MINIMALNY_POZIOM_INWESTYCJI_DLUZNE,MAKSYMALNY_POZIOM_INWESTYCJI_DLUZNE,MINIMALNY_POZIOM_INWESTYCJI_TYTULY_UCZESTNICTWA,MINIMALNY_POZIOM_INWESTYCJI_TYTULY_UCZESTNICTWA,CZESTOTLIWOSC_ZBYWANIA_I_ODKUPOWANIA_JEDNOSTEK_UCZESTNICTWA,CZY_FUNDUSZ_WYPLACA_DYWIDENTE,BENCHMARK,ZALECANY_OKRES_INWESTYCJI,PROFIL_RYZYKA_I_ZYSKU,SRRI,OPLATY,OPLATA_ZA_NABYCIE,OPLATA_ZA_ODKUPIENIE,OPLATY_BIEZACE,OPLATY_ZA_WYNIKI,WYNIKI_OSIAGNIETE_W_PRZESZLOSCI,STOPA_ZWROTU_2012,STOPA_ZWROTU_2012_BENCHMARK,STOPA_ZWROTU_2013,STOPA_ZWROTU_2013_BENCHMARK,STOPA_ZWROTU_2014,STOPA_ZWROTU_2014_BENCHMARK,STOPA_ZWROTU_2015,STOPA_ZWROTU_2015_BENCHMARK,STOPA_ZWROTU_2016,STOPA_ZWROTU_2016_BENCHMARK,STOPA_ZWROTU_2017,STOPA_ZWROTU_2017_BENCHMARK,STOPA_ZWROTU_2018,STOPA_ZWROTU_2018_BENCHMARK,STOPA_ZWROTU_2019,STOPA_ZWROTU_2019_BENCHMARK,STOPA_ZWROTU_2020,STOPA_ZWROTU_2020_BENCHMARK,STOPA_ZWROTU_2021,STOPA_ZWROTU_2021_BENCHMARK,DATA_PIERWSZEJ_WYCENY,DEPOZYTARIUSZ,KRS_TOWARZYSTWA,NIP_TOWARZYSTWA,SIEDZIBA_TOWARZYSTWA,KAPITAL_ZAKLADOWAY_TOWARZYSTWA,WALUTA_KAPITALU_ZAKLADOWEGO_TOWARZYSTWA,CZY_ESG,TYP_FUNDUSZ
-1,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 09.10.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,13,Pekao PPK SFIO – Pekao PPK 2055 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-9,13,  Allianz Dochodowy Income and Growth ,,,,,,,['A' 'I'],,,,,,,,,D,True,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-10,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,68%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,13,Allianz Plan Emerytalny 2055 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-12,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 30.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-17,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 03.08.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-21,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,13,PKO Zabezpieczenia Emerytalnego 2020 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"0,76%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-23,13,Allianz Global Metals and Mining ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-24,13,Pekao PPK SFIO - Pekao PPK 2065 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-25,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,13,"ALIOR Zrównowa¿ony, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,69",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-27,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28,13,Pekao Walutowy FIO – Pekao Obligacji Dolarowych Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-29,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-30,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31,13,Allianz Plan Emerytalny 2050 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-32,13,Pekao PPK SFIO – Pekao PPK 2030 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-33,13,PKO Emerytura 2045 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,45%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-34,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-35,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-36,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37,13,BNP Paribas Dynamicznego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","2,81%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-38,13,"Subfundusz BPS 2050, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A.," wtorek, 21 wrzeœnia 2022 r. ",[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-39,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,13%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41,13,BNP Paribas Aktywnego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","2,65%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",15.01,PLN,,FIO
-42,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-44,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 22.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 30.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51,13,PFR PPK 2040 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,55%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-52,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-53,13,PKO Obligacji Samorz¹dowych ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-54,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-55,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-56,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-57,13,Pekao Funduszy Globalnych SFIO – Pekao Surowców ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-58,13,PKO Obligacji Globalny ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-59,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-60,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-61,13,PKO Emerytura 2055 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%","0,00%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-62,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-63,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-64,13,   Allianz Akcji Globalnych ,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-65,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-66,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-67,13,PKO Diamentowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,31%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,2.19,,,
-68,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-69,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-70,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-72,13,"Subfundusz BPS 2035, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-73,13,PKO Emerytura 2025 ,,,,,PKO TFI S.A., 11 paŸdziernika 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,31%","0,0",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-74,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-76,13,.   ,,,,,, w którym ,['A'],,,,,,,,,D,False,,,,,,do,brak,"1,18%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-77,13,PKO Bursztynowy ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'I' 'K' 'L' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,66%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-78,13,   Allianz Konserwatywny ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"1,5%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-79,13,   Allianz Globalny Stabilnego ,,,,,,,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-80,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,35%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-81,13,   Allianz Zbalansowana Multistrategia ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-82,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-83,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-84,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-86,13,PFR PPK 2055 ,,,,,, 18 paŸdziernika 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-87,13,Pekao PPK SFIO – Pekao PPK 2045 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-88,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-89,13,"ALIOR Zrównowa¿ony, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","5,05",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-90,13,PKO Obligacji Samorz¹dowych II ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-91,13,.   ,,,,,, w którym odbywa siê ,['A'],,,,,,,,,D,False,,,,,,do,brak,"2,62%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-92,13,Pekao Strategie Funduszowe SFIO – Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 paŸdziernika 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-93,13,"ALIOR Globalny Nowych Technologii, Subfundusz wydzielony w ramach ALIOR",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,53",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-94,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-95,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-96,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-97,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 01.05.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-98,13,"ALIOR Stabilny na Przysz³oœæ, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","2,66",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-99,13,Pekao FIO – Pekao Dynamicznych Spó³ek ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-100,13,BNP Paribas Obligacji Zrównowa¿ony Rozwój,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,48%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-101,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,77%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-102,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-103,13,Open Finance Konserwatywny ,,,,,Noble Funds TFI S.A., 1.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-104,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-105,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-106,13,F  undusz W³asnoœci Pracowniczej PKP SFIO ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'F' 'I' 'K' 'S' 'W'],,,,,,,,,D,True,,,,,,"0,00%","0,00%","0,15%","0,00%",,,,,,,,,,,,,,,,,,,,,,, ing bank œl¹ski s.a,,,,,,,SFIO
-107,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-108,13,"ALIOR Obligacji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,69",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-109,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-110,13,Allianz PIMCO Emerging Markets Bond ESG ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-111,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-112,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-113,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-114,13,Pekao Funduszy Globalnych SFIO – Pekao Alternatywny – ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-115,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-116,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-117,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-118,13,"Subfundusz BPS 2055, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-119,13,PKO Szafirowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","1,61%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,0.02,,,
+1,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+2,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+3,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+4,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 09.10.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+5,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+6,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+7,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+8,13,Pekao PPK SFIO – Pekao PPK 2055 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+9,13,  Allianz Dochodowy Income and Growth ,,,,,,,['A' 'I'],,,,,,,,,D,True,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+10,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,68%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+11,13,Allianz Plan Emerytalny 2055 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+12,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+13,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+14,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 30.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+15,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+16,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+17,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+18,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+19,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 03.08.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+20,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+21,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+22,13,PKO Zabezpieczenia Emerytalnego 2020 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"0,76%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+23,13,Allianz Global Metals and Mining ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+24,13,Pekao PPK SFIO - Pekao PPK 2065 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+25,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+26,13,"ALIOR Zrównowa¿ony, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,69",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+27,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+28,13,Pekao Walutowy FIO – Pekao Obligacji Dolarowych Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+29,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+30,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+31,13,Allianz Plan Emerytalny 2050 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+32,13,Pekao PPK SFIO – Pekao PPK 2030 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+33,13,PKO Emerytura 2045 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,45%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+34,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+35,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+36,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+37,13,BNP Paribas Dynamicznego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","2,81%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+38,13,"Subfundusz BPS 2050, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A.," wtorek, 21 wrzeœnia 2022 r. ",[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+39,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,13%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+40,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+41,13,BNP Paribas Aktywnego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","2,65%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",15.01,PLN,False,FIO
+42,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+43,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+44,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 22.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+45,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+46,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+47,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+48,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+49,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+50,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 30.04.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+51,13,PFR PPK 2040 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,55%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+52,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+53,13,PKO Obligacji Samorz¹dowych ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+54,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+55,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+56,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+57,13,Pekao Funduszy Globalnych SFIO – Pekao Surowców ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+58,13,PKO Obligacji Globalny ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+59,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+60,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+61,13,PKO Emerytura 2055 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%","0,00%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+62,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+63,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+64,13,   Allianz Akcji Globalnych ,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+65,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+66,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+67,13,PKO Diamentowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,31%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,2.19,,False,
+68,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+69,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+70,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+71,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+72,13,"Subfundusz BPS 2035, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+73,13,PKO Emerytura 2025 ,,,,,PKO TFI S.A., 11 paŸdziernika 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,31%","0,0",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+74,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+75,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+76,13,.   ,,,,,, w którym ,['A'],,,,,,,,,D,False,,,,,,do,brak,"1,18%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+77,13,PKO Bursztynowy ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'I' 'K' 'L' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,66%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+78,13,   Allianz Konserwatywny ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"1,5%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+79,13,   Allianz Globalny Stabilnego ,,,,,,,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+80,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,35%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+81,13,   Allianz Zbalansowana Multistrategia ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+82,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+83,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+84,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+85,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+86,13,PFR PPK 2055 ,,,,,, 18 paŸdziernika 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+87,13,Pekao PPK SFIO – Pekao PPK 2045 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+88,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+89,13,"ALIOR Zrównowa¿ony, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","5,05",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+90,13,PKO Obligacji Samorz¹dowych II ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+91,13,.   ,,,,,, w którym odbywa siê ,['A'],,,,,,,,,D,False,,,,,,do,brak,"2,62%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+92,13,Pekao Strategie Funduszowe SFIO – Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 paŸdziernika 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+93,13,"ALIOR Globalny Nowych Technologii, Subfundusz wydzielony w ramach ALIOR",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,53",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+94,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+95,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+96,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+97,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 01.05.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+98,13,"ALIOR Stabilny na Przysz³oœæ, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","2,66",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+99,13,Pekao FIO – Pekao Dynamicznych Spó³ek ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+100,13,BNP Paribas Obligacji Zrównowa¿ony Rozwój,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,48%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+101,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,77%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+102,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+103,13,Open Finance Konserwatywny ,,,,,Noble Funds TFI S.A., 1.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+104,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+105,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+106,13,F  undusz W³asnoœci Pracowniczej PKP SFIO ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'F' 'I' 'K' 'S' 'W'],,,,,,,,,D,True,,,,,,"0,00%","0,00%","0,15%","0,00%",,,,,,,,,,,,,,,,,,,,,,, ing bank œl¹ski s.a,,,,,,True,SFIO
+107,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+108,13,"ALIOR Obligacji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,69",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+109,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+110,13,Allianz PIMCO Emerging Markets Bond ESG ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+111,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+112,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+113,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+114,13,Pekao Funduszy Globalnych SFIO – Pekao Alternatywny – ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+115,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+116,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+117,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+118,13,"Subfundusz BPS 2055, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+119,13,PKO Szafirowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","1,61%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,0.02,,False,
 120,13,BNPP Papierów D³u¿nych Krótkoterminowych,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09. 2022 roku.,['A'],,,,,,,,,D,False,,,,,,"2,00%","0,50%","1,39%","0,00%",,,,,,,,,,,,,,,,,,,,,,," deutsche bank polska s.a.
 fundusz  przewiduje  mo¿liwoœæ  konwersji  jednostek  uczestnictwa 
-subfundusz ",0000031121,526-02-10-808,,10.05,PLN,,FIO
-121,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-122,13,Pekao PPK SFIO – Pekao PPK 2040 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-123,13,PFR PPK 2025 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-124,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-125,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-126,13,BNP Paribas Stabilnego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","2,64","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-127,13,"Subfundusz BPS 2040, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-128,13,Pekao FIO – Pekao Stabilnego Wzrostu ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"3,25%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-129,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-130,13,PKO Emerytura 2040 ,,,,,PKO TFI S.A., 19 paŸdziernika 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-131,13,PKO Zabezpieczenia Emerytalnego 2050 ,,,,,PKO TFI S.A., 21 lu tego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,93%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-132,13,  Allianz Trezor ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-133,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-134,13,Allianz China A-Shares ,,,,,,,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-135,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-136,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-137,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Ma³ych ,,,,,Pekao Towarzystwo S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-138,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-139,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-140,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-141,13,Pekao Strategie Funduszowe SFIO – Pekao Kompas ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 22 czerwca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-142,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-143,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-144,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-145,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-146,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-147,13,Pekao Funduszy Globalnych SFIO – Pekao Bazowy 15 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-148,13,Allianz Plan Emerytalny 2035 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-149,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-150,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-151,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-152,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-153,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-154,13,PFR PPK 2035 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,54%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-155,13,Pekao PPK SFIO – Pekao PPK 2035 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-156,13,PKO Zabezpieczenia Emerytalnego 2070 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W' 'Z'],,,,,,,,,D,False,,,,,,"2,00%",brak,"2,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-157,13,Pekao Walutowy FIO – Pekao Akcji Europejskich,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 18 paŸdziernika 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-158,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-159,13,Allianz Plan Emerytalny 2045 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-160,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-161,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-162,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'O' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-163,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-164,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-165,13,   Allianz Dynamiczna Multistrategia ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-166,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 29.06.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,53%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-167,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-168,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 18.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-169,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-170,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-171,13,"Subfundusz BPS 2030, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,:,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-172,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-173,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 30.11.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-174,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-175,13,Pekao Walutowy FIO – Pekao Akcji Amerykañskich ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-176,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-177,13,PKO Emerytura 2035 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-178,13,"ALIOR Ostro¿ny , Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","0,76",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-179,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-180,13,Subfundusz Lokata Kapita³u,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"2,50%","0,00%","1,07%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 w",,PLN,,SFIO
-181,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-182,13,Pekao Walutowy FIO – Pekao Obligacji Europejskich Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 28 czerwca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-183,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-184,13,PFR PPK 2050 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-185,13,Pekao PPK SFIO – Pekao PPK 2025 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 lipca 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-186,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-187,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-188,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-189,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-190,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-191,13,Allianz Plan Emerytalny 2030 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-192,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-193,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-194,13,PKO Rubinowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","1,89%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-195,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-196,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-197,13,BNP Paribas Europejskich Obligacji Zamiennych,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,81%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-198,13,PKO Szafirowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'L' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,61%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-199,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-200,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-201,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-202,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-203,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-204,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-205,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Rynków ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-206,13,BNPP Akcji,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"5,00%","1,50%","2,30%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,FIO
-207,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-208,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-209,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 15.10.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-210,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-211,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-212,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-213,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-214,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-215,13,Pekao FIO – Pekao Konserwatywny ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-216,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-217,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-218,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-219,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-220,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-221,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-222,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-223,13,Pekao Strategie Funduszowe SFIO – Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-224,13,Pekao FIO – Pekao Akcji - Aktywna Selekcja ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-225,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-226,13,Open Finance Konserwatywny ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-227,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-228,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-229,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-230,13,"ALIOR Obligacji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,63",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-231,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-232,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-233,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,50%",brak,"0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-234,13,"ALIOR Akcji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","3,04",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-235,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"3,25%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-236,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-237,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,32%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-238,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-239,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-240,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"3,25%",brak,"2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-241,13,Pekao Obligacji – Dynamiczna Alokacja FIO ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-242,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-243,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-244,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 01.07.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,68%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-245,13,PKO Szmaragdowy ,,,,,PKO TFI S.A., 29 czerwca 2022 roku. ,['A' 'C' 'I' 'K' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,22%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-246,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-247,13,  Allianz PIMCO ESG Income ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-248,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-249,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-250,13,   Allianz Europe Equity Growth Select ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-251,13,Pekao FIO – Pekao Megatrendy ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-252,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-253,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-254,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-255,13,BNP Paribas Konserwatywnego Oszczêdzania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"0,50%","0,00%","1,09%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-256,13,Pekao PPK SFIO – Pekao PPK 2050 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-257,13,BNP Paribas Globalny Dynamicznego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","3,36%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-258,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-259,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-260,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-261,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-262,13,   Allianz Akcji Rynku Z³ota ,,,,,, 21,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-263,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-264,13,   Allianz Aktywnej Alokacji ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-265,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-266,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-267,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-268,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 24.05.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-269,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 30 lipca 2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-270,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-271,13,   Allianz PIMCO Income ,,,,,, 21 lutego 2022 roku. ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-272,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-273,13,"ALIOR Spokojny dla Ciebie, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,38",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-274,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-275,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-276,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-277,13,   Allianz Selektywny ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-278,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"0,50%","0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-279,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,625%","1,625%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-280,13,   Allianz Obligacji Inflacyjnych ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-281,13,Pekao Funduszy Globalnych SFIO – Pekao Obligacji ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 maja 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-282,13,"Subfundusz BPS 2025, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,:,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-283,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-284,13,PKO Rubinowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'L' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",s¹,"1,89%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,0.07,,,
-285,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-286,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.03.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-287,13,Pekao Funduszy Globalnych SFIO – Pekao Spokojna Inwestycja ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-288,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-289,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-290,13,Open Finance Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-291,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-292,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-293,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-294,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-295,13,   Allianz Artificial Intelligence ,,,,,,,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-296,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-297,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-298,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-299,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-300,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-301,13,Pekao FIO - Pekao Obligacji - Dynamiczna Alokacja 2 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-302,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-303,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Rynków ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-304,13,Pekao Funduszy Globalnych SFIO – Pekao Dochodu USD ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-305,13,PFR PPK 2065 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,47%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-306,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-307,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-308,13,PKO Obligacji Samorz¹dowych ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-309,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-310,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-311,13,Pekao FIO – Pekao Obligacji Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,80%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-312,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-313,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-314,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-315,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-316,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-317,13,Noble Fund Strategii Mieszanych,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-318,13,PKO Obligacji Globalny ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-319,13,Pekao PPK SFIO – Pekao PPK 2060 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-320,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-321,13,Subfundusz BNP Paribas Top Funduszy Obligacji Krajowych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 20.09.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,98%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-322,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-323,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-324,13,Allianz Plan Emerytalny 2060 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-325,13,"ALIOR Oszczêdnoœciowy, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","1,03",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-326,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-327,13,Pekao FIO – Pekao Konserwatywny Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-328,13,PKO Szmaragdowy ,,,,,PKO TFI S.A., 29 czerwca 2022 roku. ,['A' 'I' 'K' 'L' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,22%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-329,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 03.10.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,20%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-330,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-331,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-332,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-333,13,Allianz Plan Emerytalny 2040 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-334,13,Pekao FIO – Pekao Bazowy 15 Dywidendowy ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"3,25%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-335,13,PKO Zabezpieczenia Emerytalnego 2030 ,,,,,PKO TFI S.A., 31 sierpnia 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-336,13,"ALIOR Oszczêdnoœciowy, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","1,10",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-337,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 03.10.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,75%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-338,13,PFR PPK 2045 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,55%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-339,13,PKO Obligacji Globalny ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-340,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-341,13,PKO Zabezpieczenia Emerytalnego 2060 ,,,,,PKO TFI S.A., 13 lipca 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'M' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-342,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-343,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-344,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-345,13,PFR PPK 2030 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,43%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-346,13,BNP Paribas Akcji Aqua ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,11%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-347,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-348,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-349,13,Noble Fund Strategii Mieszanych,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-350,13,PKO Emerytura 2030 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-351,13,Noble Fund Africa,,,,,Noble Funds TFI S.A., 30.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-352,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-353,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 01.07.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,73%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-354,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.03.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-355,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-356,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Obligacji ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-357,13,Subfundusz Ma³ych i Œrednich Spó³ek,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"2,00%","0,00%","1,09%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 w",,PLN,,SFIO
-358,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 17.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-359,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-360,13,PKO Diamentowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'L' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,31%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-361,13,"Subfundusz BPS 2045, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-362,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-363,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,25%","0,25%","0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-364,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-365,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-366,13,Pekao  Funduszy  Globalnych  SFIO  -  Pekao  Alternatywny  - ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-367,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-368,13,Pekao Walutowy FIO – Pekao Zrównowa¿ony Rynku ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-369,13,Noble Fund Africa,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-370,13,  Allianz PIMCO Global High  ,,,,,, 21  lutego 2022 roku. ,['A' 'I'],,,,,,,,,D,False,,,,,,"2,50%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-371,13,BNP Paribas Akcji Zielony £ad ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,31%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-372,13,BNP Paribas Krajowych Funduszy D³u¿nych,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,True,,,,,,"1,00%","0,00%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-373,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-374,13,PKO Emerytura 2065 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W' 'Z'],,,,,,,,,D,False,,,,,,brak,brak,"0,35%","0,00%.",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-375,13,   Allianz Akcji Ma³ych i Œrednich ,,,,,, ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-376,13,PFR PPK 2060 ,,,,,, 4 paŸdziernika 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-377,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-378,13,PKO Obligacji Samorz¹dowych II ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-379,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-380,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-381,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-382,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-383,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 4.01.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-384,13,"Subfundusz BPS 2060, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,1.01,,,SFIO
-385,13,PKO Emerytura 2050 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,46%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-386,13,Allianz Plan Emerytalny 2065 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-387,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-388,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'O' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-389,13,   Allianz Defensywna Multistrategia ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-390,13,"ALIOR Stabilny na Przysz³oœæ, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","2,46",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-391,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-392,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 04.01.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-393,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-394,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-395,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-396,13,BNP Paribas Akcji Azjatyckie Tygrysy ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,SFIO
-397,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-398,13,Subfundusz BNP Paribas Obligacji Wysokodochodowych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.02.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"3,00%","3,00%","2,89%",przez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-399,13,Allianz PIMCO Global Bond ESG ,,,,,S.A., ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-400,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-401,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,83%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-402,13,BNP Paribas Obligacji,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"2,50%","0,00%","1,68%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-403,13,.   ,,,,,, w którym ,['A'],,,,,,,,,D,False,,,,,,do,brak,"1,10%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-404,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-405,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-406,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-407,13,Allianz Plan Emerytalny 2025 ,,,,,, 22 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-408,13,BNPP Stabilnego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.022 roku.,['A'],,,,,,,,,D,False,,,,,,"3,00%","1,00%","2,51%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,,FIO
-409,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-410,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-411,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-412,13,"ALIOR Spokojny dla Ciebie, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"2,00","0,50","0,88",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-413,13,Open Finance Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-414,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-415,13,   Allianz Stabilnego Wzrostu ,,,,,, ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"3,50%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-416,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-417,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-418,13,Subfundusz BNP Paribas Aktywnych Strategii D³u¿nych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 26.04.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"2,50%","2,50%","3,28%",osi¹gniêt¹,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-419,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 1.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-420,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Obligacji ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-421,13,PKO Zabezpieczenia Emerytalnego 2040 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,82%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-422,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-423,13,BNP Paribas Akcji Wzrostowych USA ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,98%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,,526-02-10-808,,,,,SFIO
-424,13,.   ,,,,,, roboczy w którym odbywa siê ,['A'],,,,,,,,,D,False,,,,,,do,,"0,91%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-425,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-426,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-427,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-428,13,"ALIOR Globalny Nowych Technologii, Subfundusz wydzielony w ramach ALIOR",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,33",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-429,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-430,13,PKO Emerytura 2060 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%","0,00%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-431,13,   Allianz India Equity ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-432,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-433,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 07.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-434,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-435,13,Pekao FIO – Pekao Zrównowa¿ony ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FIO
-436,13,Pekao Strategie Funduszowe SFIO - Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy S.A., 12 lipca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,5%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-437,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-438,13,Pekao PPK SFIO – Pekao PPK 2020 Spokojne Jutro ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 lipca 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-439,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-440,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-441,13,BNP Paribas Globalny Stabilnego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","2,89%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,,FIO
-442,13,Allianz PIMCO Emerging Local Bond ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-443,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-444,13,   Allianz Polskich Obligacji ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"1,50%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-445,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-446,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-447,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-448,13,"ALIOR Akcji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","3,17",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-449,13,PKO Zabezpieczenia Emerytalnego 2030 ,,,,,PKO TFI S.A., 31 sierpnia 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-450,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-451,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-452,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-453,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-454,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 23.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-455,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-456,13,   Allianz Obligacji Plus ,,,,,, ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"2,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-457,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-458,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-459,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Dochodu ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-460,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-461,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-462,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-463,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-464,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-465,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-466,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-467,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-468,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-469,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-470,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-471,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-472,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-473,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-474,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-475,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-476,13,PKO Bursztynowy ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","0,66%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-477,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-478,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-479,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-480,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-481,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-482,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.03.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-483,13,Pekao Funduszy Globalnych SFIO – Pekao Ekologiczny ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 24 maja 2022 r.  ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-484,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-485,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-486,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-487,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,,
-488,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-489,13,"Subfundusz BPS 2065, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,1.01,,,SFIO
-490,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-491,13,"ALIOR Ostro¿ny , Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","0,94",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,,SFIO
-492,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-493,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-494,13,   Allianz Obligacji Globalnych ,,,,,,,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"2,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SFIO
-495,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-496,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-497,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,75%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+subfundusz ",0000031121,526-02-10-808,,10.05,PLN,False,FIO
+121,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+122,13,Pekao PPK SFIO – Pekao PPK 2040 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+123,13,PFR PPK 2025 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+124,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+125,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+126,13,BNP Paribas Stabilnego Inwestowania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","2,64","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+127,13,"Subfundusz BPS 2040, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+128,13,Pekao FIO – Pekao Stabilnego Wzrostu ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"3,25%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+129,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+130,13,PKO Emerytura 2040 ,,,,,PKO TFI S.A., 19 paŸdziernika 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+131,13,PKO Zabezpieczenia Emerytalnego 2050 ,,,,,PKO TFI S.A., 21 lu tego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,93%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+132,13,  Allianz Trezor ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+133,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+134,13,Allianz China A-Shares ,,,,,,,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+135,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+136,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+137,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Ma³ych ,,,,,Pekao Towarzystwo S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+138,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+139,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+140,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+141,13,Pekao Strategie Funduszowe SFIO – Pekao Kompas ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 22 czerwca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+142,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+143,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+144,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+145,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+146,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+147,13,Pekao Funduszy Globalnych SFIO – Pekao Bazowy 15 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+148,13,Allianz Plan Emerytalny 2035 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+149,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+150,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+151,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+152,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+153,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+154,13,PFR PPK 2035 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,54%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+155,13,Pekao PPK SFIO – Pekao PPK 2035 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+156,13,PKO Zabezpieczenia Emerytalnego 2070 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W' 'Z'],,,,,,,,,D,False,,,,,,"2,00%",brak,"2,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+157,13,Pekao Walutowy FIO – Pekao Akcji Europejskich,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 18 paŸdziernika 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+158,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+159,13,Allianz Plan Emerytalny 2045 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+160,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+161,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+162,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'O' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+163,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+164,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+165,13,   Allianz Dynamiczna Multistrategia ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+166,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 29.06.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,53%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+167,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+168,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 18.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+169,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+170,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+171,13,"Subfundusz BPS 2030, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,:,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+172,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+173,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 30.11.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+174,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+175,13,Pekao Walutowy FIO – Pekao Akcji Amerykañskich ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+176,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+177,13,PKO Emerytura 2035 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+178,13,"ALIOR Ostro¿ny , Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","0,76",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+179,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+180,13,Subfundusz Lokata Kapita³u,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"2,50%","0,00%","1,07%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 w",,PLN,True,SFIO
+181,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+182,13,Pekao Walutowy FIO – Pekao Obligacji Europejskich Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 28 czerwca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+183,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+184,13,PFR PPK 2050 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+185,13,Pekao PPK SFIO – Pekao PPK 2025 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 lipca 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+186,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+187,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+188,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+189,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+190,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+191,13,Allianz Plan Emerytalny 2030 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+192,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+193,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 15.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+194,13,PKO Rubinowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","1,89%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+195,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+196,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+197,13,BNP Paribas Europejskich Obligacji Zamiennych,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,81%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+198,13,PKO Szafirowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'L' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,61%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+199,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+200,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+201,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+202,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+203,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+204,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+205,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Rynków ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+206,13,BNPP Akcji,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"5,00%","1,50%","2,30%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,False,FIO
+207,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+208,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+209,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 15.10.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+210,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+211,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+212,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+213,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+214,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+215,13,Pekao FIO – Pekao Konserwatywny ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+216,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+217,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+218,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+219,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+220,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+221,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+222,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+223,13,Pekao Strategie Funduszowe SFIO – Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+224,13,Pekao FIO – Pekao Akcji - Aktywna Selekcja ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+225,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+226,13,Open Finance Konserwatywny ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+227,13,Noble Fund Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+228,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+229,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+230,13,"ALIOR Obligacji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,63",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+231,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+232,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+233,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,50%",brak,"0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+234,13,"ALIOR Akcji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","3,04",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+235,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"3,25%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+236,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+237,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,32%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+238,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+239,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+240,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"3,25%",brak,"2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+241,13,Pekao Obligacji – Dynamiczna Alokacja FIO ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+242,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+243,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+244,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 01.07.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,68%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+245,13,PKO Szmaragdowy ,,,,,PKO TFI S.A., 29 czerwca 2022 roku. ,['A' 'C' 'I' 'K' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,22%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+246,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 31.07.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+247,13,  Allianz PIMCO ESG Income ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+248,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+249,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+250,13,   Allianz Europe Equity Growth Select ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+251,13,Pekao FIO – Pekao Megatrendy ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"5,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+252,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+253,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+254,13,Noble Fund Skarbowy ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+255,13,BNP Paribas Konserwatywnego Oszczêdzania,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"0,50%","0,00%","1,09%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+256,13,Pekao PPK SFIO – Pekao PPK 2050 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+257,13,BNP Paribas Globalny Dynamicznego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","3,36%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+258,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 20.02.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+259,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+260,13,PKO Akcji Dywidendowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,42%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+261,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+262,13,   Allianz Akcji Rynku Z³ota ,,,,,, 21,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+263,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+264,13,   Allianz Aktywnej Alokacji ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+265,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+266,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+267,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+268,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 24.05.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+269,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 30 lipca 2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+270,13,PKO Infrastruktury i Budownictwa Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,11%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+271,13,   Allianz PIMCO Income ,,,,,, 21 lutego 2022 roku. ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+272,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+273,13,"ALIOR Spokojny dla Ciebie, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"2,00","0,50","1,38",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+274,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+275,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+276,13,PKO Akcji Plus ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+277,13,   Allianz Selektywny ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+278,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"0,50%","0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+279,13,PKO Stabilnego Wzrostu ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,625%","1,625%","2,02%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+280,13,   Allianz Obligacji Inflacyjnych ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+281,13,Pekao Funduszy Globalnych SFIO – Pekao Obligacji ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 maja 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+282,13,"Subfundusz BPS 2025, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,:,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+283,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+284,13,PKO Rubinowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'L' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",s¹,"1,89%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,0.07,,False,
+285,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+286,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.03.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+287,13,Pekao Funduszy Globalnych SFIO – Pekao Spokojna Inwestycja ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+288,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+289,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+290,13,Open Finance Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+291,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+292,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+293,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+294,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+295,13,   Allianz Artificial Intelligence ,,,,,,,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+296,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+297,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+298,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+299,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+300,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+301,13,Pekao FIO - Pekao Obligacji - Dynamiczna Alokacja 2 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"2,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+302,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+303,13,Pekao Funduszy Globalnych SFIO – Pekao Akcji Rynków ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+304,13,Pekao Funduszy Globalnych SFIO – Pekao Dochodu USD ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,00%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+305,13,PFR PPK 2065 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,47%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+306,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+307,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+308,13,PKO Obligacji Samorz¹dowych ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+309,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+310,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+311,13,Pekao FIO – Pekao Obligacji Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,80%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+312,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+313,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+314,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+315,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+316,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+317,13,Noble Fund Strategii Mieszanych,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+318,13,PKO Obligacji Globalny ,,,,,, 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+319,13,Pekao PPK SFIO – Pekao PPK 2060 ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 paŸdziernika 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+320,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+321,13,Subfundusz BNP Paribas Top Funduszy Obligacji Krajowych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 20.09.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","2,98%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+322,13,PKO Obligacji Samorz¹dowych II,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+323,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+324,13,Allianz Plan Emerytalny 2060 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+325,13,"ALIOR Oszczêdnoœciowy, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","1,03",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+326,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+327,13,Pekao FIO – Pekao Konserwatywny Plus ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+328,13,PKO Szmaragdowy ,,,,,PKO TFI S.A., 29 czerwca 2022 roku. ,['A' 'I' 'K' 'L' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,22%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+329,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 03.10.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,20%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+330,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+331,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+332,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+333,13,Allianz Plan Emerytalny 2040 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+334,13,Pekao FIO – Pekao Bazowy 15 Dywidendowy ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 sierpnia 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"3,25%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+335,13,PKO Zabezpieczenia Emerytalnego 2030 ,,,,,PKO TFI S.A., 31 sierpnia 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+336,13,"ALIOR Oszczêdnoœciowy, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","1,10",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+337,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 03.10.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,75%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+338,13,PFR PPK 2045 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,55%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+339,13,PKO Obligacji Globalny ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,53%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+340,13,Open Finance Stabilnego Wzrostu ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+341,13,PKO Zabezpieczenia Emerytalnego 2060 ,,,,,PKO TFI S.A., 13 lipca 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'M' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+342,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+343,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+344,13,PKO Akcji Rynków Wschodz¹cych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,13%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+345,13,PFR PPK 2030 ,,,,,, 23 wrzeœnia 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,43%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+346,13,BNP Paribas Akcji Aqua ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,11%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+347,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 16.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+348,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+349,13,Noble Fund Strategii Mieszanych,,,,,Noble Funds TFI S.A., 01.01.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+350,13,PKO Emerytura 2030 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,44%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+351,13,Noble Fund Africa,,,,,Noble Funds TFI S.A., 30.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+352,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+353,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 01.07.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,73%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+354,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.03.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+355,13,Noble Fund Strategii D³u¿nych ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+356,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Obligacji ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+357,13,Subfundusz Ma³ych i Œrednich Spó³ek,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"2,00%","0,00%","1,09%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 w",,PLN,True,SFIO
+358,13,Noble Fund Strategii D³u¿nych,,,,,Noble Funds TFI S.A., 17.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+359,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+360,13,PKO Diamentowy ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'L' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,31%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+361,13,"Subfundusz BPS 2045, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+362,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+363,13,PKO Obligacji Skarbowych ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,25%","0,25%","0,59%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+364,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+365,13,PKO Medycyny i Demografii Globalny ,,,,,PKO TFI S.A., 10 sierpnia 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+366,13,Pekao  Funduszy  Globalnych  SFIO  -  Pekao  Alternatywny  - ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+367,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+368,13,Pekao Walutowy FIO – Pekao Zrównowa¿ony Rynku ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+369,13,Noble Fund Africa,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+370,13,  Allianz PIMCO Global High  ,,,,,, 21  lutego 2022 roku. ,['A' 'I'],,,,,,,,,D,False,,,,,,"2,50%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+371,13,BNP Paribas Akcji Zielony £ad ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,31%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+372,13,BNP Paribas Krajowych Funduszy D³u¿nych,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,True,,,,,,"1,00%","0,00%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+373,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+374,13,PKO Emerytura 2065 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W' 'Z'],,,,,,,,,D,False,,,,,,brak,brak,"0,35%","0,00%.",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+375,13,   Allianz Akcji Ma³ych i Œrednich ,,,,,, ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"5,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+376,13,PFR PPK 2060 ,,,,,, 4 paŸdziernika 2022 roku. ,['A' 'S'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+377,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+378,13,PKO Obligacji Samorz¹dowych II ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+379,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+380,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+381,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"3,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+382,13,PKO Ekologii i Odpowiedzialnoœci Spo³ecznej Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,16%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+383,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 4.01.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+384,13,"Subfundusz BPS 2060, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,1.01,,True,SFIO
+385,13,PKO Emerytura 2050 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,46%","0,0%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+386,13,Allianz Plan Emerytalny 2065 ,,,,,, 21 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+387,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+388,13,PKO Obligacji Samorz¹dowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'O' 'R' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,00%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+389,13,   Allianz Defensywna Multistrategia ,,,,,, ,['A' 'I' 'K'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+390,13,"ALIOR Stabilny na Przysz³oœæ, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","2,46",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+391,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+392,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 04.01.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+393,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+394,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 30.05.2014 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+395,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+396,13,BNP Paribas Akcji Azjatyckie Tygrysy ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,True,SFIO
+397,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+398,13,Subfundusz BNP Paribas Obligacji Wysokodochodowych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.02.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"3,00%","3,00%","2,89%",przez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+399,13,Allianz PIMCO Global Bond ESG ,,,,,S.A., ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+400,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+401,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,83%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+402,13,BNP Paribas Obligacji,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku,['A' 'C'],,,,,,,,,D,False,,,,,,"2,50%","0,00%","1,68%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+403,13,.   ,,,,,, w którym ,['A'],,,,,,,,,D,False,,,,,,do,brak,"1,10%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+404,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+405,13,Open Finance Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"2,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+406,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"1,33%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+407,13,Allianz Plan Emerytalny 2025 ,,,,,, 22 lutego 2022 roku. ,[],,,,,,,,,D,False,,,,,,brak,brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+408,13,BNPP Stabilnego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.022 roku.,['A'],,,,,,,,,D,False,,,,,,"3,00%","1,00%","2,51%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,,,PLN,False,FIO
+409,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+410,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+411,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+412,13,"ALIOR Spokojny dla Ciebie, Subfundusz wydzielony w ramach ALIOR Specjalistycznego",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"2,00","0,50","0,88",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+413,13,Open Finance Oszczêdnoœciowy ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+414,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 29.04.2013 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+415,13,   Allianz Stabilnego Wzrostu ,,,,,, ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"3,50%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+416,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+417,13,PKO Obligacji D³ugoterminowych ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"0,77%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+418,13,Subfundusz BNP Paribas Aktywnych Strategii D³u¿nych ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 26.04.2022 roku,['A' 'B' 'S'],,,,,,,,,D,False,,,,,,"2,50%","2,50%","3,28%",osi¹gniêt¹,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+419,13,Noble Fund Konserwatywny ,,,,,Noble Funds TFI S.A., 1.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"0,50%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+420,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Obligacji ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"1,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+421,13,PKO Zabezpieczenia Emerytalnego 2040 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,82%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+422,13,Noble Fund Stabilny,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+423,13,BNP Paribas Akcji Wzrostowych USA ,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21 .09.2022 roku.,['A'],,,,,,,,,D,False,,,,,,"4,00%","0,00%","1,98%",brak,,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,,526-02-10-808,,,,True,SFIO
+424,13,.   ,,,,,, roboczy w którym odbywa siê ,['A'],,,,,,,,,D,False,,,,,,do,,"0,91%",stosuje,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+425,13,PKO Akcji Ma³ych i Œrednich Spó³ek ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+426,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 20.02.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+427,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+428,13,"ALIOR Globalny Nowych Technologii, Subfundusz wydzielony w ramach ALIOR",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","4,33",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+429,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+430,13,PKO Emerytura 2060 ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,brak,"0,48%","0,00%",,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+431,13,   Allianz India Equity ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+432,13,Noble Fund Akcji Polskich ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+433,13,Noble Fund Mieszany,,,,,Noble Funds TFI S.A., 07.08.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+434,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 17.02.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+435,13,Pekao FIO – Pekao Zrównowa¿ony ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,50%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,FIO
+436,13,Pekao Strategie Funduszowe SFIO - Pekao Strategii ,,,,,Pekao Towarzystwo Funduszy S.A., 12 lipca 2022 r. ,['A'],,,,,,,,,D,False,,,,,,"4,5%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+437,13,Noble Fund Stabilnego Wzrostu Plus,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+438,13,Pekao PPK SFIO – Pekao PPK 2020 Spokojne Jutro ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 1 lipca 2022 r. ,[],,,,,,,,,D,False,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+439,13,PKO Akcji Rynku Japoñskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","1,39%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+440,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+441,13,BNP Paribas Globalny Stabilnego Wzrostu,,,,,BNP Paribas Towarzystwo Funduszy Inwestycyjnych S.A., 21.09.2022 roku.,['A' 'C'],,,,,,,,,D,False,,,,,,"5,00%","0,00%","2,89%","0,00%",,,,,,,,,,,,,,,,,,,,,,, deutsche bank polska s.a,0000031121,526-02-10-808,"ul. grzybowski 78, 00-844 warszawa",,PLN,False,FIO
+442,13,Allianz PIMCO Emerging Local Bond ,,,,,, ,['A' 'I'],,,,,,,,,D,False,,,,,,"4,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+443,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+444,13,   Allianz Polskich Obligacji ,,,,,, 1 wrzeœnia 2022 roku. ,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"1,50%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+445,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+446,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+447,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"1,50%",brak,"1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+448,13,"ALIOR Akcji, Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['A'],,,,,,,,,D,False,,,,,,"5,00","1,50","3,17",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+449,13,PKO Zabezpieczenia Emerytalnego 2030 ,,,,,PKO TFI S.A., 31 sierpnia 2022 roku. ,['A' 'C' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%",brak,"1,72%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+450,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['A' 'C' 'D'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"2,48%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+451,13,Noble Fund Stabilny ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+452,13,Noble Fund Emerytalny ,,,,,Noble Funds TFI S.A., 13.10.2022 r. ,['A'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+453,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 02.12.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+454,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 23.07.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+455,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+456,13,   Allianz Obligacji Plus ,,,,,, ,['A' 'B' 'C' 'D' 'I'],,,,,,,,,D,False,,,,,,"2,00%",brak,:,",",,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+457,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+458,13,PKO Papierów D³u¿nych USD ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+459,13,Pekao  Funduszy  Globalnych  SFIO  –  Pekao  Dochodu ,,,,,Pekao Towarzystwo Funduszy S.A., 11 lutego 2022 r. ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+460,13,PKO Dóbr Luksusowych Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+461,13,Noble Fund Akcji Amerykañskich,,,,,Noble Funds TFI S.A., 01.12.2021 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+462,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+463,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+464,13,Noble Fund Akcji Europejskich ,,,,,Noble Funds TFI S.A., 7.04.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+465,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+466,13,PKO Akcji Rynku Z³ota ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","2,05%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+467,13,Open Finance Aktywnej Alokacji ,,,,,Noble Funds TFI S.A., 19.07.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+468,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"1,50%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+469,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.02.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+470,13,PKO Technologii i Innowacji Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,03%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+471,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+472,13,PKO Gamma Plus,,,,,, 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'S' 'W'],,,,,,,,,D,False,,,,,,"0,75%","0,75%","1,17%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+473,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 01.01.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+474,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+475,13,Noble Fund Emerytalny,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+476,13,PKO Bursztynowy ,,,,,PKO TFI S.A., 27 maja 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,00%","2,00%","0,66%",jest,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+477,13,PKO Akcji Rynku Amerykañskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'B' 'I' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,brak,"4,50%","0,90%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+478,13,PKO Akcji Rynku Europejskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","1,04%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+479,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 19.02.2016 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+480,13,Noble Fund Obligacji ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"1,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+481,13,Noble Fund Timingowy ,,,,,Noble Funds TFI S.A., 19.02.2018 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+482,13,Noble Fund Africa and Frontier,,,,,Noble Funds TFI S.A., 20.03.2017 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+483,13,Pekao Funduszy Globalnych SFIO – Pekao Ekologiczny ,,,,,Pekao Towarzystwo Funduszy Inwestycyjnych S.A., 24 maja 2022 r.  ,['A'],,,,,,,,,D,False,,,,,,jest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+484,13,Noble Fund Global Return,,,,,Noble Funds TFI S.A., 1.01.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+485,13,PKO Akcji Rynku Polskiego ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'C' 'I' 'K' 'N' 'O' 'S' 'W'],,,,,,,,,D,False,,,,,,"2,25%","2,25%","0,96%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+486,13,Noble Fund Akcji Amerykañskich ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+487,13,PKO Surowców Globalny ,,,,,PKO TFI S.A., 21 lutego 2022 roku. ,['A' 'E' 'F' 'G' 'H' 'I' 'J' 'K' 'N' 'O' 'P' 'S' 'W'],,,,,,,,,D,False,,,,,,"4,50%",brak,"2,06%",brak,,,,,,,,,,,,,,,,,,,,,,, bank handlowy w warszawie s.a,,,,,,False,
+488,13,Noble Fund Pieniê¿ny ,,,,,Noble Funds TFI S.A., 19.02.2015 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,brak,brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+489,13,"Subfundusz BPS 2065, Fundusz BPS Emerytura PPK SFIO (RFI 1652)  ",,,,,PFR Towarzystwo Funduszy Inwestycyjnych S.A., 21 wrzeœnia 2022 r. ,[],,,,,,,,,D,True,,,,,,:,:,j,,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,1.01,,True,SFIO
+490,13,Noble Fund Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 24.06.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"5,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+491,13,"ALIOR Ostro¿ny , Subfundusz wydzielony w ramach ALIOR Specjalistycznego Funduszu",,,,,," poniedzia³ek, 26 wrzeœnia 2022 r.",['B'],,,,,,,,,D,False,,,,,,"5,00","1,50","0,94",,,,,,,,,,,,,,,,,,,,,,,, mbank s.a,,,,,,True,SFIO
+492,13,Noble Fund Strategii Mieszanych ,,,,,Noble Funds TFI S.A., 01.02.2022 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+493,13,Noble Fund Akcji ,,,,,Noble Funds TFI S.A., 01.01.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+494,13,   Allianz Obligacji Globalnych ,,,,,,,['A' 'B' 'C' 'D' 'E' 'I'],,,,,,,,,D,False,,,,,,"2,00%",brak,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,True,SFIO
+495,13,Open Finance Akcji ,,,,,Noble Funds TFI S.A., 19.02.2019 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+496,13,Open Finance Akcji Ma³ych i Œrednich Spó³ek ,,,,,Noble Funds TFI S.A., 19.06.2020 r. ,['A' 'S'],,,,,,,,,D,True,,,,,,"4,00%",brak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
+497,13,.   ,,,,,VIG C-QUADRAT Towarzystwo Funduszy Inwestycyjnych S.A., 27.05.2022 roku. ,['B' 'C' 'E'],,,,,,,,,D,False,,,,,,"5,00%",s¹,"0,75%",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,
