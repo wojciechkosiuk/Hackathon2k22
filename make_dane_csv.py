@@ -2,7 +2,7 @@ import pdf_reader as pr
 import pandas as pd
 import sprawdz_czy_kiid as sck
 import numpy as np
-np.warnings.filterwarnings('ignore', category=np.VisibleDeprecationWarning) #czasem wkladamy liste w komurke co skutuje warningiem ragged array (tak podejrzewam), mimo to wynik jest spoko 
+np.warnings.filterwarnings('ignore', category=np.VisibleDeprecationWarning) #czasem wkladamy liste w komórke co skutuje warningiem ragged array (tak podejrzewam), mimo to wynik jest spoko 
 
 
 
@@ -80,6 +80,9 @@ def make_duze_csv():
 
         print(f'{row} / {n}')
 
+        tmp = pr._3150(full_text)
+
+
         full_df.loc[row,:] = [
             i,
             13,
@@ -90,6 +93,7 @@ def make_duze_csv():
             None,
             pr._8(full_text),
             pr._9(full_text),
+            pr._10(full_text),
             None,
             None,
             None,
@@ -98,9 +102,8 @@ def make_duze_csv():
             None,
             None,
             None,
-            None,
-            None,
-            None,
+            pr._19(full_text),
+            pr._20(full_text),
             None,
             None,
             None,
@@ -110,27 +113,27 @@ def make_duze_csv():
             pr._27(full_text),
             pr._28(full_text),
             pr._29(full_text),
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
-            None,
+            None,   
+            None, #tmp.loc[0,1], #31 
+            None, #tmp.loc[0,2],
+            None, #tmp.loc[1,1],
+            None, #tmp.loc[1,2],            
+            None, #tmp.loc[2,1], 
+            None, #tmp.loc[2,2],
+            None, #tmp.loc[3,1],
+            None, #tmp.loc[3,2],
+            None, #tmp.loc[4,1],  
+            None, #tmp.loc[4,2],
+            None, #tmp.loc[5,1],
+            None, #tmp.loc[5,2],            
+            None, #tmp.loc[6,1], 
+            None, #tmp.loc[6,2],
+            None, #tmp.loc[7,1],
+            None, #tmp.loc[7,2],
+            None, #tmp.loc[8,1],
+            None, #tmp.loc[8,2],            
+            None, #tmp.loc[9,1], 
+            None, #tmp.loc[9,2],
             None,
             pr._52(full_text),
             pr._53(full_text),
@@ -138,7 +141,7 @@ def make_duze_csv():
             pr._55(full_text),
             pr._56(full_text),
             pr._57(full_text),
-            None,
+            pr._58(full_text),
             pr._59(full_text)
         ] 
         i += 1
